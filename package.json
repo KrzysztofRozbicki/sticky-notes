@@ -22,5 +22,8 @@
     "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "notiflix": "^3.2.6"
   }
 }
